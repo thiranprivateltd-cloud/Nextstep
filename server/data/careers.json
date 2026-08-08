@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Software Engineer",
+    "description": "Design, develop, and maintain software applications and systems. Solve algorithmic challenges and build scalable technology solutions.",
+    "category": "Technology",
+    "streams": ["Engineering", "Science", "Other"],
+    "skills": ["JavaScript", "Python", "Data Structures", "Algorithms", "React", "Node.js", "SQL"],
+    "averageSalary": { "min": 600000, "max": 2500000 },
+    "demandLevel": "Very High",
+    "roadmapTemplate": [
+      {
+        "phase": 1,
+        "title": "Programming Fundamentals",
+        "duration": "1-3 Months",
+        "tasks": ["Learn JavaScript, Python, or Java syntax", "Understand basics of OOPs concepts", "Practice writing simple console applications"],
+        "resources": ["MDN Web Docs", "freeCodeCamp Javascript Course"]
+      },
+      {
+        "phase": 2,
+        "title": "Data Structures & Algorithms",
+        "duration": "3-6 Months",
+        "tasks": ["Study arrays, linked lists, stacks, queues", "Learn sorting and searching algorithms", "Solve 100+ basic problems on LeetCode/GeeksforGeeks"],
+        "resources": ["GeeksforGeeks DSA Guide", "LeetCode practice portal"]
+      },
+      {
+        "phase": 3,
+        "title": "Full Stack Web Development",
+        "duration": "6-9 Months",
+        "tasks": ["Learn HTML, CSS, React for frontend", "Learn Node.js, Express, MongoDB for backend", "Build a complete portfolio project"],
+        "resources": ["The Odin Project", "FullStackOpen"]
+      },
+      {
+        "phase": 4,
+        "title": "Databases & System Design",
+        "duration": "9-12 Months",
+        "tasks": ["Learn SQL (PostgreSQL) and NoSQL (MongoDB)", "Study basic system design patterns (REST, MVC)", "Prepare resume and apply for internships"],
+        "resources": ["ByteByteGo", "Pragmatic Programmer Book"]
+      }
+    ],
+    "resources": [
+      { "title": "FreeCodeCamp Full Stack Curriculum", "type": "Course", "url": "https://www.freecodecamp.org" },
+      { "title": "Introduction to Algorithms (CLRS)", "type": "Book", "url": "https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/" }
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Analyze complex datasets using statistical modeling and machine learning algorithms to extract actionable insights and drive business growth.",
+    "category": "Data Science",
+    "streams": ["Science", "Engineering"],
+    "skills": ["Python", "SQL", "Statistics", "Machine Learning", "Data Visualization", "Pandas", "TensorFlow"],
+    "averageSalary": { "min": 700000, "max": 3000000 },
+    "demandLevel": "Very High",
+    "roadmapTemplate": [
+      {
+        "phase": 1,
+        "title": "Mathematics & Programming",
+        "duration": "1-3 Months",
+        "tasks": ["Learn Python or R programming", "Revise Linear Algebra, Calculus, and Probability", "Learn SQL to query structured data"],
+        "resources": ["Kaggle Learn Python", "3Blue1Brown Linear Algebra Series"]
+      },
+      {
+        "phase": 2,
+        "title": "Data Analysis & Visualization",
+        "duration": "3-6 Months",
+        "tasks": ["Master Pandas, NumPy, and Matplotlib libraries", "Analyze exploratory datasets (EDA)", "Clean and format messy raw files"],
+        "resources": ["Python for Data Analysis Book", "Kaggle EDA Tutorials"]
+      },
+      {
+        "phase": 3,
+        "title": "Machine Learning Foundations",
+        "duration": "6-9 Months",
+        "tasks": ["Learn regression, classification, and clustering", "Train models using Scikit-Learn", "Learn cross-validation and evaluation metrics"],
+        "resources": ["StatQuest ML Playlist", "Hands-On Machine Learning Book"]
+      },
+      {
+        "phase": 4,
+        "title": "Deep Learning & Deployments",
+        "duration": "9-12 Months",
+        "tasks": ["Understand Neural Networks, NLP, and Computer Vision", "Deploy a model as a simple web API (Flask/FastAPI)", "Publish 3 projects on GitHub"],
+        "resources": ["Fast.ai Deep Learning Course", "Hugging Face documentation"]
+      }
+    ],
+    "resources": [
+      { "title": "Coursera Machine Learning Specialization", "type": "Course", "url": "https://www.coursera.org" },
+      { "title": "Kaggle Community Datasets", "type": "Website", "url": "https://www.kaggle.com" }
+    ]
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "Design user interfaces and craft user experiences for websites and mobile applications. Focus on user research, wireframing, and interactive design.",
+    "category": "Design",
+    "streams": ["Arts", "Other"],
+    "skills": ["Figma", "Adobe XD", "Wireframing", "User Research", "Prototyping", "UI Design Systems"],
+    "averageSalary": { "min": 500000, "max": 1800000 },
+    "demandLevel": "High",
+    "roadmapTemplate": [
+      {
+        "phase": 1,
+        "title": "Design Principles",
+        "duration": "1-2 Months",
+        "tasks": ["Learn Typography, Color Theory, and Layout grids", "Study basic design heuristics (Jakob's Law)", "Analyze popular apps (Spotify, Airbnb) for UI patterns"],
+        "resources": ["Refactoring UI Book", "Laws of UX Website"]
+      },
+      {
+        "phase": 2,
+        "title": "Mastering Design Tools",
+        "duration": "2-4 Months",
+        "tasks": ["Learn Figma inside-out (Auto-layout, Components)", "Create wireframes for basic mobile apps", "Build click-through interactive prototypes"],
+        "resources": ["Figma YouTube Channel", "UI/UX Design Crash Courses"]
+      },
+      {
+        "phase": 3,
+        "title": "UX Research & Testing",
+        "duration": "4-8 Months",
+        "tasks": ["Conduct user interviews & surveys", "Create personas and user journey maps", "Perform usability testing on designs"],
+        "resources": ["Nielsen Norman Group Articles", "Interaction Design Foundation"]
+      },
+      {
+        "phase": 4,
+        "title": "Portfolio Development",
+        "duration": "8-12 Months",
+        "tasks": ["Write 3 detailed UX Case Studies", "Design full visual mockups", "Publish portfolio on Behance or personal website"],
+        "resources": ["Bestfolios", "Dribbble UI design inspirations"]
+      }
+    ],
+    "resources": [
+      { "title": "Google UX Design Professional Certificate", "type": "Course", "url": "https://www.coursera.org" },
+      { "title": "Figma Practice Files", "type": "Website", "url": "https://www.figma.com/community" }
+    ]
+  },
+  {
+    "title": "Chartered Accountant (CA)",
+    "description": "Manage financial audits, taxation policies, accounts, and corporate financial planning for corporations, businesses, and individuals.",
+    "category": "Finance",
+    "streams": ["Commerce"],
+    "skills": ["Auditing", "Taxation", "Financial Accounting", "Corporate Law", "Excel", "Tally"],
+    "averageSalary": { "min": 800000, "max": 2200000 },
+    "demandLevel": "High",
+    "roadmapTemplate": [
+      {
+        "phase": 1,
+        "title": "CA Foundation Course",
+        "duration": "6-8 Months",
+        "tasks": ["Register with ICAI", "Study Accounting, Business Laws, Maths, and Economics", "Pass CA Foundation exams"],
+        "resources": ["ICAI Study Material", "CA Foundation classes"]
+      },
+      {
+        "phase": 2,
+        "title": "CA Intermediate Course",
+        "duration": "10-12 Months",
+        "tasks": ["Complete intermediate classes (Group 1 & Group 2)", "Master Direct/Indirect Taxes and Audit procedures", "Pass Intermediate exams"],
+        "resources": ["ICAI BOS Portal", "Intermediate Mock Tests"]
+      },
+      {
+        "phase": 3,
+        "title": "Articleship (Practical Training)",
+        "duration": "24-36 Months",
+        "tasks": ["Secure Articleship in an audit/accounting firm", "Work on real audit reports and tax filings", "Complete ITT and MCS training courses"],
+        "resources": ["Big 4 Firms Articleship programs", "Local CA Audit practices"]
+      },
+      {
+        "phase": 4,
+        "title": "CA Final Exam & Certification",
+        "duration": "6-12 Months",
+        "tasks": ["Prepare for CA Final Group 1 & 2 exams", "Excel in Financial Reporting, Strategic Financial Management", "Register as ICAI member"],
+        "resources": ["ICAI Final Prep resources", "CA Practice Manuals"]
+      }
+    ],
+    "resources": [
+      { "title": "Institute of Chartered Accountants of India (ICAI)", "type": "Website", "url": "https://www.icai.org" }
+    ]
+  },
+  {
+    "title": "Civil Servant (IAS/IPS/IFS)",
+    "description": "Administer policy execution, maintain law and order, handle district governance, and implement development programs for the government.",
+    "category": "Public Administration",
+    "streams": ["Arts", "Commerce", "Science", "Engineering"],
+    "skills": ["Policy Implementation", "Public Policy", "Leadership", "Ethics", "Current Affairs", "General Studies"],
+    "averageSalary": { "min": 700000, "max": 1800000 },
+    "demandLevel": "Very High",
+    "roadmapTemplate": [
+      {
+        "phase": 1,
+        "title": "Syllabus Analysis & Foundations",
+        "duration": "3-6 Months",
+        "tasks": ["Understand UPSC CSE Exam pattern and syllabus", "Read NCERT Textbooks (Classes 6-12) for History, Geography, Polity", "Start reading a national newspaper (The Hindu/Indian Express) daily"],
+        "resources": ["UPSC CSE Syllabus document", "NCERT textbooks portal"]
+      },
+      {
+        "phase": 2,
+        "title": "UPSC Preliminary Prep & Optional Selection",
+        "duration": "6-12 Months",
+        "tasks": ["Select optional subject based on interest/background", "Prepare GS papers (Polity, Economics, Environment, Science)", "Practice CSAT logic and mathematics questions"],
+        "resources": ["Laxmikanth Indian Polity Book", "Ramesh Singh Indian Economy Book"]
+      },
+      {
+        "phase": 3,
+        "title": "Mains Answer Writing & Revision",
+        "duration": "6-8 Months",
+        "tasks": ["Write daily answers for GS 1-4 and optional papers", "Draft mock essays on social, philosophical topics", "Take comprehensive test series"],
+        "resources": ["Insights IAS daily answer portal", "Vision IAS test series"]
+      },
+      {
+        "phase": 4,
+        "title": "Interview/Personality Test preparation",
+        "duration": "2-3 Months",
+        "tasks": ["Fill Detailed Application Form (DAF) carefully", "Conduct mock interviews with retired civil servants", "Stay updated on global and national current events"],
+        "resources": ["Mock interview panels", "Current affairs magazines"]
+      }
+    ],
+    "resources": [
+      { "title": "UPSC Civil Services Exam Portal", "type": "Website", "url": "https://www.upsc.gov.in" },
+      { "title": "Press Information Bureau (PIB)", "type": "Website", "url": "https://pib.gov.in" }
+    ]
+  }
+]
